@@ -1,0 +1,8906 @@
+[
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 80,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 74,
+   "Year": 2017
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2017
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 104,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 41,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 101,
+   "Year": 2017
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 67,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 55,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 84,
+   "Year": 2017
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 68,
+   "Year": 2017
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2017
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2017
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Egypt ",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2017
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 23,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 68,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 178,
+   "Year": 2017
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 38,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 87,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 132,
+   "Year": 2017
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 93,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 16,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 91,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 648,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 50,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 475,
+   "Year": 2017
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 59,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2017
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2017
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 42,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 76,
+   "Year": 2017
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 43,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 83,
+   "Year": 2017
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2017
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 67,
+   "Year": 2017
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2017
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2017
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 33,
+   "Year": 2017
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 81,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 40,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 90,
+   "Year": 2017
+ },
+ {
+   "Country": "Republic of China",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 69,
+   "Year": 2017
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2017
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 33,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 64,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 127,
+   "Year": 2017
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 48,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2017
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2017
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2017
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 52,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 99,
+   "Year": 2017
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2017
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2017
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 26,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 70,
+   "Year": 2017
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 38,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2017
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 53,
+   "Year": 2017
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 21,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 21,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 66,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 104,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 111,
+   "Year": 2017
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 113,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 126,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 271,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 570,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 519,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 943,
+   "Year": 2017
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2017
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2017
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 28,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 26,
+   "Year": 2018
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 94,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 42,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 82,
+   "Year": 2018
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "Austria ",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 43,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2018
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 33,
+   "Year": 2018
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 57,
+   "Year": 2018
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 236,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 76,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 226,
+   "Year": 2018
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 34,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 49,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 158,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 74,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 155,
+   "Year": 2018
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2018
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 43,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 22,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 147,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 277,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 142,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 640,
+   "Year": 2018
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 43,
+   "Year": 2018
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 33,
+   "Year": 2018
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 41,
+   "Year": 2018
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 26,
+   "Year": 2018
+ },
+ {
+   "Country": "Finland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 24,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 70,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 101,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 310,
+   "Year": 2018
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 50,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 66,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 155,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 285,
+   "Year": 2018
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 52,
+   "Year": 2018
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2018
+ },
+ {
+   "Country": "Hong Kong",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 41,
+   "Year": 2018
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 237,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 65,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 265,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 1890,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 145,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 1203,
+   "Year": 2018
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 128,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 71,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2018
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 50,
+   "Year": 2018
+ },
+ {
+   "Country": "Iran ",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2018
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 31,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 48,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 59,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 131,
+   "Year": 2018
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 110,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 58,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 236,
+   "Year": 2018
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 33,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 34,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 56,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 52,
+   "Year": 2018
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 45,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 28,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 106,
+   "Year": 2018
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 94,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 49,
+   "Year": 2018
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2018
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 16,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 53,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 56,
+   "Year": 2018
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 32,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 39,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 113,
+   "Year": 2018
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 70,
+   "Year": 2018
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 56,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 72,
+   "Year": 2018
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2018
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 57,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 132,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 78,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 304,
+   "Year": 2018
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 46,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 20,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 42,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 54,
+   "Year": 2018
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 49,
+   "Year": 2018
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 37,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 53,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 56,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 214,
+   "Year": 2018
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 66,
+   "Year": 2018
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 69,
+   "Year": 2018
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 26,
+   "Year": 2018
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 24,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 82,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 41,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 85,
+   "Year": 2018
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 47,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 94,
+   "Year": 2018
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 23,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 40,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 49,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 122,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 121,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 195,
+   "Year": 2018
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 206,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 160,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 471,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 804,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 625,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 1349,
+   "Year": 2018
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 53,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2018
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2018
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Algeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 38,
+   "Year": 2019
+ },
+ {
+   "Country": "Argentina",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 48,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 69,
+   "Year": 2019
+ },
+ {
+   "Country": "Australia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2019
+ },
+ {
+   "Country": "Austria",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 27,
+   "Year": 2019
+ },
+ {
+   "Country": "Bangladesh",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Belarus",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 33,
+   "Year": 2019
+ },
+ {
+   "Country": "Belgium",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 18,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 24,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 162,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 61,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 206,
+   "Year": 2019
+ },
+ {
+   "Country": "Brazil",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 24,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 34,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 60,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 53,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 98,
+   "Year": 2019
+ },
+ {
+   "Country": "Canada",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2019
+ },
+ {
+   "Country": "Chile",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 20,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 69,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 104,
+   "Year": 2019
+ },
+ {
+   "Country": "China",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 59,
+   "Year": 2019
+ },
+ {
+   "Country": "Colombia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2019
+ },
+ {
+   "Country": "Czech Republic",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2019
+ },
+ {
+   "Country": "Denmark",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Egypt",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 24,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 62,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 170,
+   "Year": 2019
+ },
+ {
+   "Country": "France",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 27,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 32,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 34,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 100,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 158,
+   "Year": 2019
+ },
+ {
+   "Country": "Germany",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 44,
+   "Year": 2019
+ },
+ {
+   "Country": "Greece",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 24,
+   "Year": 2019
+ },
+ {
+   "Country": "Hong Kong ",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2019
+ },
+ {
+   "Country": "Hungary",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 135,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 42,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 182,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 29,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 1095,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 111,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 954,
+   "Year": 2019
+ },
+ {
+   "Country": "India",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 111,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 49,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 31,
+   "Year": 2019
+ },
+ {
+   "Country": "Indonesia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 26,
+   "Year": 2019
+ },
+ {
+   "Country": "Iran",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2019
+ },
+ {
+   "Country": "Ireland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 40,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 91,
+   "Year": 2019
+ },
+ {
+   "Country": "Italy",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 95,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 61,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 214,
+   "Year": 2019
+ },
+ {
+   "Country": "Japan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Kenya",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Malaysia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 28,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 50,
+   "Year": 2019
+ },
+ {
+   "Country": "Mexico",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 21,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 34,
+   "Year": 2019
+ },
+ {
+   "Country": "Morocco",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 55,
+   "Year": 2019
+ },
+ {
+   "Country": "Netherlands",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "New Zealand",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 21,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 98,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 88,
+   "Year": 2019
+ },
+ {
+   "Country": "Nigeria",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2019
+ },
+ {
+   "Country": "Norway",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 39,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 40,
+   "Year": 2019
+ },
+ {
+   "Country": "Pakistan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 19,
+   "Year": 2019
+ },
+ {
+   "Country": "Peru",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Philippines",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 24,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 90,
+   "Year": 2019
+ },
+ {
+   "Country": "Poland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 36,
+   "Year": 2019
+ },
+ {
+   "Country": "Portugal",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 15,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 38,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 47,
+   "Year": 2019
+ },
+ {
+   "Country": "South Korea",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 14,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Romania",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 28,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 66,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 55,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 219,
+   "Year": 2019
+ },
+ {
+   "Country": "Russia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 37,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 9,
+   "Year": 2019
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 32,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 11,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2019
+ },
+ {
+   "Country": "Singapore",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 23,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2019
+ },
+ {
+   "Country": "South Africa",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 22,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 45,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 51,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 169,
+   "Year": 2019
+ },
+ {
+   "Country": "Spain",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 34,
+   "Year": 2019
+ },
+ {
+   "Country": "Sweden",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 30,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 28,
+   "Year": 2019
+ },
+ {
+   "Country": "Switzerland",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 5,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 17,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 29,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 101,
+   "Year": 2019
+ },
+ {
+   "Country": "Taiwan",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 7,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 20,
+   "Year": 2019
+ },
+ {
+   "Country": "Thailand",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 12,
+   "Year": 2019
+ },
+ {
+   "Country": "Tunisia",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 8,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 22,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 42,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 35,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 58,
+   "Year": 2019
+ },
+ {
+   "Country": "Turkey",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 13,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 18,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 16,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 71,
+   "Year": 2019
+ },
+ {
+   "Country": "Ukraine",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 2,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 10,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 19,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 35,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 60,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 80,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 109,
+   "Year": 2019
+ },
+ {
+   "Country": "UK",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 72,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 92,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 244,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 395,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 386,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 838,
+   "Year": 2019
+ },
+ {
+   "Country": "USA",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 22,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Female",
+   "No of Gender": 0,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Female",
+   "No of Gender": 6,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Female",
+   "No of Gender": 1,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Bachelor's degree",
+   "Gender": "Male",
+   "No of Gender": 28,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Doctoral degree",
+   "Gender": "Male",
+   "No of Gender": 4,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Master's degree",
+   "Gender": "Male",
+   "No of Gender": 25,
+   "Year": 2019
+ },
+ {
+   "Country": "Vietnam",
+   "Degree Type": "Professional degree",
+   "Gender": "Male",
+   "No of Gender": 3,
+   "Year": 2019
+ }
+]
