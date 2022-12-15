@@ -1,0 +1,74 @@
+[
+ {
+   "Gender": "Female",
+   "Job Status": "Without",
+   "Value": 141,
+   "Year": 2018
+ },
+ {
+   "Gender": "Female",
+   "Job Status": "With",
+   "Value": 2948,
+   "Year": 2018
+ },
+ {
+   "Gender": "Male",
+   "Job Status": "Without",
+   "Value": 574,
+   "Year": 2018
+ },
+ {
+   "Gender": "Male ",
+   "Job Status": "With",
+   "Value": 14456,
+   "Year": 2018
+ },
+ {
+   "Gender": "Female",
+   "Job Status": "Without",
+   "Value": 200,
+   "Year": 2017
+ },
+ {
+   "Gender": "Female",
+   "Job Status": "With",
+   "Value": 1543,
+   "Year": 2017
+ },
+ {
+   "Gender": "Male",
+   "Job Status": "Without",
+   "Value": 654,
+   "Year": 2017
+ },
+ {
+   "Gender": "Male ",
+   "Job Status": "With",
+   "Value": 8248,
+   "Year": 2017
+ },
+ {
+   "Gender": "Female",
+   "Job Status": "Without",
+   "Value": 183,
+   "Year": 2019
+ },
+ {
+   "Gender": "Female",
+   "Job Status": "With",
+   "Value": 1698,
+   "Year": 2019
+ },
+ {
+   "Gender": "Male",
+   "Job Status": "Without",
+   "Value": 580,
+   "Year": 2019
+ },
+ {
+   "Gender": "Male ",
+   "Job Status": "With",
+   "Value": 9202,
+   "Year": 2019
+ }
+]
